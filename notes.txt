@@ -1,0 +1,3 @@
+- modules can't see or import from each other. if something need to be imported from another module, it should not be part of a module.
+- all components should be business-related. atoms go into the design-system. it's optional and can be disabled thorough init process.
+
